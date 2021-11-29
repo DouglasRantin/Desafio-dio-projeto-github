@@ -1,0 +1,13 @@
+Informações sobbre a experincia na Dio.
+link da dio para você estudar também:https://www.dio.me/sign-in
+link para download do Git:https://git-scm.com/downloads
+Na Plataforma da Digital Inovation One, você tera unumeros cursos a disposição para alavancar sua carreira com tutores muito experientes
+Eu estou no BootCamp dio-Cognizante Java Developer, já viz muitos cursos da Plataforma atualmente estou com o projeto de criar meu repositorio no Git/GitHub  está sendo muito bom
+esse repostiorio será Clona via Git Bash Here que é um terminal de acessso simplificado do Git.
+Já passei pelo curso:
+Logica de Progração Essencial.
+Aprenda o que são Estrutura de Dados e Algoritmos.
+Introdução ao GitHub.
+Dominando IDEs Java: Eclipse e Intellij
+Introdução ao Sistema Linux.
+Dentre outros.
